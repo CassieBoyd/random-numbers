@@ -38,3 +38,6 @@ for number in numbers_1_to_10:
 # Otherwise, print this statement instead
     else: 
         print(f'{number} is not in the random list')
+
+# if number == numbers_1_to_10:
+#   the_numbers_match = True
